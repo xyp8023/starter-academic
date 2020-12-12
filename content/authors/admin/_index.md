@@ -19,7 +19,7 @@ bio: My research interests include deep learning, autonomous underwater percepti
 # Interests to show in About widget
 interests:
 - Deep Learning
-- Underwater Perception with sidescan sonar
+- Underwater Perception with Sidescan Sonar
 - Underwater SLAM
 
 # Education to show in About widget
