@@ -73,4 +73,3 @@ highlight_name: false
 Yiping Xie is a PhD student at Robotics, Perception and Learning Lab, KTH. His research interests include deep learning, autunomous underwater perception, and underwater SLAM. He is working on Representations of AUV Perception for Navigation, funded by WASP - Wallenberg AI, Autonomous Systems and Software Program. Primarily he is interested in using deep learning methods to model the representations of side-scan sonar data.
 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
