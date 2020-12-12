@@ -24,15 +24,15 @@ date_format = "Jan 2006"
   location = "Stockholm, Stockholm"
   date_start = "2020-01-01"
   date_end = ""
-  description = """  Academic PhD student   """
+  description = """Academic PhD student."""
 
 [[experience]]
   title = "Intern"
   company = "Ericsson"
   company_url = ""
   location = "Kista, Stockholm"
-  date_start = "2018-10"
-  date_end = "2019-05"
-  description = """ Testing engineer   """
+  date_start = "2018-10-01"
+  date_end = "2019-05-31"
+  description = """Testing engineer."""
 
 +++
