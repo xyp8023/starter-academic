@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Deep Learning"
   url = ""
   certificate_url = "https://coursera.org/share/2ce7612da433d10680dc9edc742c2ecf"
-  date_start = ""
-  date_end = "2018-02-28"
+  date_start = "2018-02-28"
+  date_end = ""
   description = ""
   
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Robotics: Estimation and Learning"
   url = ""
   certificate_url = "https://coursera.org/share/9e2a4a8962f68d6b038bae31abc49df9"
-  date_start = ""
-  date_end = "2020-07-11"
+  date_start = "2020-07-11"
+  date_end = ""
   description = ""
 
 +++
