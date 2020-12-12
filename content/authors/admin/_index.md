@@ -14,18 +14,18 @@ organizations:
   url: https://www.kth.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, autunomous underwater perception, and underwater SLAM.
+bio: My research interests include deep learning, autonomous underwater perception, and underwater SLAM.
 
 # Interests to show in About widget
 interests:
 - Deep Learning
-- AUV's Perception with sidescan sonar
+- Underwater Perception with sidescan sonar
 - Underwater SLAM
 
 # Education to show in About widget
 education:
   courses: 
-  - course: PhD in Robotics, Perception and Learning
+  - course: PhD in Perception for AUV's Navigation
     institution: KTH Royal Institute of Technology 
     year: 2020-Current
   - course: Msc in Information and Networking Engineering
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'yipingx@kth.se'
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -70,7 +70,7 @@ email: "yipingx@kth.se"
 highlight_name: false
 ---
 
-Yiping Xie is a PhD student at Robotics, Perception and Learning, KTH. His research interests include deep learning, autunomous underwater perception, and underwater SLAM. He is working on Representations of AUV Perception for Navigation, funded by WASP - Wallenberg AI, Autonomous Systems and Software Program. Primarily he is interested in using deep learning methods to model the representations of side-scan sonar data.
+Yiping Xie is a PhD student at Robotics, Perception and Learning Lab, KTH. His research interests include deep learning, autunomous underwater perception, and underwater SLAM. He is working on Representations of AUV Perception for Navigation, funded by WASP - Wallenberg AI, Autonomous Systems and Software Program. Primarily he is interested in using deep learning methods to model the representations of side-scan sonar data.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
