@@ -26,10 +26,10 @@ interests:
 education:
   courses: 
   - course: PhD in Robotics, Perception and Learning
-    institution: Royal Institude of Technology 
+    institution: KTH Royal Institute of Technology 
     year: 2020-Current
   - course: Msc in Information and Networking Engineering
-    institution: Royal Institude of Technology
+    institution: KTH Royal Institute of Technology
     year: 2019
   - course: BSc in Electrical Engineering
     institution: Beihang University
