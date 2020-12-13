@@ -47,7 +47,7 @@ Abstract: Cyber-physical systems (CPSs) comprise a network of sensors and actuat
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
