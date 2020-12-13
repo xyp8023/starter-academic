@@ -40,7 +40,7 @@ Abstract: Sidescan sonar images are 2D representations of the seabed. The pixel 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
