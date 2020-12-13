@@ -28,7 +28,7 @@ Aurora, Stockholm
 
 
 
-{{ $page := .Site.GetPage "/images" }}
+{{ $page := .Site.GetPage "/static/images" }}
 {{ $images := $page.Resources.ByType "image" }}
 
 {{ range $images }}
