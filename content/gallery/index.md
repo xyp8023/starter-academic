@@ -27,3 +27,16 @@ Aurora, Stockholm
 <img src="/images/barbecue.jpg" alt="image" width="4000"/>
 
 
+
+{{ $page := .Site.GetPage "/images" }}
+{{ $images := $page.Resources.ByType "image" }}
+
+{{ range $images }}
+  {{ $original := . }}
+  {{ $resized := .Resize "400x" }}
+  <p>
+    <a href="{{ $original.Permalink}}">
+      <img src="{{ $resized.Permalink }}"/>
+    </a>
+  </p>
+{{ end }}
