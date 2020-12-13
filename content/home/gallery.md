@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Gallery"
+title = "Gullmarsfjorden"
 subtitle = ""
 
 [content]
@@ -53,7 +53,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "../images/hugin.jpg"  # Name of image in `static/media/`.
+  #image = "../images/hugin.jpg"  # Name of image in `static/media/`.
   image = "../images/Gullmarsfjorden.jpg"
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
