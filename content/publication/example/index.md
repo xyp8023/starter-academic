@@ -14,23 +14,13 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-# @article{xie2019inferring,
-  title={Inferring depth contours from sidescan sonar using convolutional neural nets},
-  author={Xie, Yiping and Bore, Nils and Folkesson, John},
-  journal={IET Radar, Sonar \& Navigation},
-  volume={14},
-  number={2},
-  pages={328--334},
-  year={2019},
-  publisher={IET}
-}
 
-date: "2020-02-01T00:00:00Z"
+date: "2020-02"
 doi: "10.1049/iet-rsn.2019.0428"
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-11-06T00:00:00Z"
+publishDate: "2019-11-06"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
