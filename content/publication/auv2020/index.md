@@ -28,7 +28,7 @@ doi: "10.1109/AUV50043.2020.9267947"
 
 
 # Schedule page publish date (NOT publication's date).
- publishDate: "2020-09-28"
+publishDate: "2020-09-28"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
