@@ -7,7 +7,7 @@ title: "Inferring depth contours from sidescan sonar using convolutional neural 
 authors:
 - Sriharsha Bhat
 - Ignacio Torroba
-- {\"O}zer {\"O}zkahraman
+- Ozer Ozkahraman
 - Nils Bore
 - Christopher Iliffe Sprague
 - admin
@@ -15,7 +15,7 @@ authors:
 - Josefine Severholt
 - Carl Ljung 
 - John Folkesson
-- Petter {\"O}gren
+- Petter Ogren
 
 # Author notes (optional)
 # author_notes:
