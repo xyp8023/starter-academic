@@ -1,0 +1,2 @@
+featured.jpg filter=lfs diff=lfs merge=lfs -text
+IMG_4493.JPG filter=lfs diff=lfs merge=lfs -text

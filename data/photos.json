@@ -1,0 +1,14 @@
+[
+    { "name": "Hugin", "src": "/images/hugin.jpg" },
+    { "name": "Barcelona", "src": "/images/barcelona.JPG" },
+    { "name": "Haifa", "src": "/images/haifa.jpg" },
+    { "name": "Beihang", "src": "/images/beihang.jpg" },
+    { "name": "Barbecue, Kungshamra", "src": "/images/barbecue.jpg" },
+    { "name": "Aurora, Stockholm", "src": "/images/aurora.jpg" },
+    { "name": "Helsinki", "src": "/images/helsinki.jpg" },
+    { "name": "Gullmarsfjorden", "src": "/images/gullmarsfjorden.jpg" },
+    { "name": "Tram, Budapest", "src": "/images/budapest.jpg" },
+    { "name": "Heaven Lake, Changbai Mountains", "src": "/images/changbaishan.jpeg" },
+    { "name": "Beach, Tel Aviv", "src": "/images/telaviv.jpg" },
+    { "name": "Jellyfish", "src": "/images/jellyfish.png" }
+]

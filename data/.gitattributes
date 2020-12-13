@@ -1,0 +1,12 @@
+../static/images/aurora.jpg filter=lfs diff=lfs merge=lfs -text
+../static/images/barbecue.jpg filter=lfs diff=lfs merge=lfs -text
+../static/images/budapest.JPG filter=lfs diff=lfs merge=lfs -text
+../static/images/Gullmarsfjorden.jpg filter=lfs diff=lfs merge=lfs -text
+../static/images/haifa.jpg filter=lfs diff=lfs merge=lfs -text
+../static/images/helsinki.jpg filter=lfs diff=lfs merge=lfs -text
+../static/images/barcelona.JPG filter=lfs diff=lfs merge=lfs -text
+../static/images/beighang.jpg filter=lfs diff=lfs merge=lfs -text
+../static/images/changbaishan.jpeg filter=lfs diff=lfs merge=lfs -text
+../static/images/hugin.jpg filter=lfs diff=lfs merge=lfs -text
+../static/images/jellyfish.jpg filter=lfs diff=lfs merge=lfs -text
+../static/images/telaviv.jpg filter=lfs diff=lfs merge=lfs -text
