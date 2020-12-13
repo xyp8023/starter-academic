@@ -1,5 +1,5 @@
 ---
-title: "title=A cyber-physical system for hydrobatic auvs: system integration and field demonstration"
+title: "A cyber-physical system for hydrobatic auvs: system integration and field demonstration"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
