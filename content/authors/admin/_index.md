@@ -28,7 +28,7 @@ education:
   - course: PhD in Perception for AUV's Navigation
     institution: KTH Royal Institute of Technology 
     year: 2020-Current
-  - course: Msc in Information and Networking Engineering
+  - course: MSc in Information and Networking Engineering
     institution: KTH Royal Institute of Technology
     year: 2019
   - course: BSc in Electrical Engineering
