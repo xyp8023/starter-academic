@@ -6,33 +6,46 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Nils Bore
+- John Folkesson
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+# @article{xie2019inferring,
+  title={Inferring depth contours from sidescan sonar using convolutional neural nets},
+  author={Xie, Yiping and Bore, Nils and Folkesson, John},
+  journal={IET Radar, Sonar \& Navigation},
+  volume={14},
+  number={2},
+  pages={328--334},
+  year={2019},
+  publisher={IET}
+}
+
+date: "2020-02-01T00:00:00Z"
+doi: "10.1049/iet-rsn.2019.0428"
+
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-11-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *IET Radar, Sonar and Navigation*
+publication_short: In *IET Radar, Sonar Navig.*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Abstract: Sidescan sonar images are 2D representations of the seabed. The pixel location encodes distance from the sonar and along track coordinate. Thus one dimension is lacking for generating bathymetric maps from sidescan. The intensities of the return signals do, however, contain some information about this missing dimension. Just as shading gives clues to depth in camera images, these intensities can be used to estimate bathymetric profiles. The authors investigate the feasibility of using data driven methods to do this estimation. They include quantitative evaluations of two pixel-to-pixel convolutional neural networks trained as standard regression networks and using conditional generative adversarial network loss functions. Some interesting conclusions are presented as to when to use each training method.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin # condimentum.
 
 tags: []
 
@@ -55,18 +68,18 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ""
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
