@@ -33,6 +33,24 @@ date_format = "Jan 2006"
   location = "Kista, Stockholm"
   date_start = "2018-10-01"
   date_end = "2019-05-31"
-  description = """Testing engineer."""
+  description = """Internship as a testing engineer."""
+  
+  [[experience]]
+  title = "Bachelor Thesis"
+  company = "Barcelona School of Informatics"
+  company_url = ""
+  location = "Barcelona, Spain"
+  date_start = "2017-02-10"
+  date_end = "2017-05-31"
+  description = """Bachelor thesis in DSP, Erasmus+ scholarship."""
+  
+    [[experience]]
+  title = "Summer School"
+  company = "Technion - Israel Institute of Technology"
+  company_url = ""
+  location = "Haifa, Israel"
+  date_start = "2016-07-26"
+  date_end = "2016-08-31"
+  description = """Summer school, CSC scholarship."""
 
 +++
