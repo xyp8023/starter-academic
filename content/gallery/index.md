@@ -10,6 +10,11 @@
 <img title="Helsinki" src="/images/helsinki.jpg" alt="image" width="4000"/>
 <img title="Hugin" src="/images/hugin.jpg" alt="image" width="4000"/>
 <img title="Aurora, Stockholm"  src="/images/aurora.jpg" alt="image" width="4000"/>
+<img title="Liljeholmen, Stockholm"  src="/images/20210306-DSC_9823.jpg" alt="image" width="4000"/>
+<img title="Bershamra, Stockholm"  src="/images/20210325-DSC_9907.jpg" alt="image" width="4000"/>
+<img title="Bershamra, Stockholm"  src="/images/20210325-DSC_9910-2.jpg" alt="image" width="4000"/>
+<img title="Lilla Bommens, Gothenburg"  src="/images/20210410-_DSC0042.jpg" alt="image" width="4000"/>
+
 
 
 
