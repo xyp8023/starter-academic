@@ -26,8 +26,6 @@
 
 <img title="City Hall, Stockholm"  src="/images/_DSC3936-CityHall.jpg" alt="image" width="4000"/>
 
-<img title="City Hall, Stockholm"  src="/images/_DSC3936-CityHall.jpg" alt="image" width="4000"/>
-
 <img title="Lindehomen, Gothenburg"  src="/images/_DSC3382-Lindehomen.jpg" alt="image" width="4000"/>
 
 <img title="Bershamra, Stockholm"  src="/images/_DSC3204.jpg" alt="image" width="4000"/>
