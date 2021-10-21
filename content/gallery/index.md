@@ -1,14 +1,9 @@
 ## Gallery 
 
-<img title="Beach, Tel Aviv" src="/images/telaviv.jpg" alt="image" width="4000"/>
-<img title="Haifa" src="/images/haifa.jpg" alt="image" width="4000"/>
-<img title="Barcelona" src="/images/barcelona.JPG" alt="image" width="4000"/>
 <img title="Heaven Lake, Changbai Mountains" src="/images/changbaishan.jpeg" alt="image" width="4000"/>
-<img title="Gullmarsfjorden" src="/images/gullmarsfjorden.jpg" alt="image" width="4000"/>
 <img title="Jellyfish" src="/images/jellyfish.jpg" alt="image" width="4000"/>
 <img title="Tram, Budapest" src="/images/budapest.JPG" alt="image" width="4000"/>
 <img title="Helsinki" src="/images/helsinki.jpg" alt="image" width="4000"/>
-<img title="Hugin" src="/images/hugin.jpg" alt="image" width="4000"/>
 <img title="Aurora, Stockholm"  src="/images/aurora.jpg" alt="image" width="4000"/>
 <img title="Liljeholmen, Stockholm"  src="/images/20210306-DSC_9823.jpg" alt="image" width="4000"/>
 <img title="Bershamra, Stockholm"  src="/images/20210325-DSC_9907.jpg" alt="image" width="4000"/>
@@ -28,3 +23,11 @@
 <img title="Bershamra, Stockholm"  src="/images/CC22216C-74F1-4C3C-8025-64E7D65079D1.jpeg" alt="image" width="4000"/>
 
 <img title="Grona Lund, Stockholm"  src="/images/DA202540-7916-4D7A-BF02-CD2C1A82E5E0.jpeg" alt="image" width="4000"/>
+
+<img title="City Hall, Stockholm"  src="/images/_DSC3936-CityHall.jpg" alt="image" width="4000"/>
+
+<img title="City Hall, Stockholm"  src="/images/_DSC3936-CityHall.jpg" alt="image" width="4000"/>
+
+<img title="Lindehomen, Gothenburg"  src="/images/_DSC3382-Lindehomen.jpg" alt="image" width="4000"/>
+
+<img title="Bershamra, Stockholm"  src="/images/_DSC3204.jpg" alt="image" width="4000"/>
